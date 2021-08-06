@@ -1,10 +1,11 @@
 ===============================================
                  RUEGA-KERNEL™
 ===============================================
+- Linux version     : 4.4.205 - NLV
 - Device            : X00T/D
-- Based             : HMP - CAF
+- Based             : EAS - CAF
 - Supported Android : 9.0 - 11.0
-- Ruega version     : Stock
+- Ruega version     : Nightly
 - Build by          : @FyyyyK
 ===============================================
      AnyKernel3 by osm0sis @ xda-developers
